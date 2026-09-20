@@ -52,11 +52,11 @@ Welcome to my GitHub! I'm passionate about building clean, efficient, and user-c
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shirishsriv&show_icons=true&theme=radical" alt="Shirish's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirish-srivastav&theme=radical" alt="Shirish's Streak Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirishsriv&theme=radical" alt="Shirish's Streak Stats" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirish-srivastav&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirishsriv&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
 
 ---
