@@ -95,8 +95,8 @@ Welcome to my GitHub! I'm passionate about building clean, efficient, and user-c
 ## 📫 Let's Connect
 
 - **Email**: [shirishsriv@gmail.com](mailto:shirishsriv@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shirish-srivastava-91861515/)
-- **Twitter/X**: [Your Twitter Handle](https://x.com/Shreesh87)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shirish-srivastava-91861515/)
+- **Twitter/X**: [Twitter Handle](https://x.com/Shreesh87)
 
 ---
 
