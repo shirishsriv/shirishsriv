@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Shirish Srivastav 👋
 
-<!--
-**shirishsriv/shirishsriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer & Tech Enthusiast
+Welcome to my GitHub space! I love building clean, efficient, and user-centric applications. Currently focusing on mastering new technologies and contributing to open-source projects.
 
-Here are some ideas to get you started:
+- 🛠️ Currently working on tinyinfer(Inference engine for small LLMs( less than 1 Billion Parameters)
+- 📚 I’m currently learning Gen AI and Data Science.
+- 💬 Ask me about anything.
+- 📫 How to reach me: shirishsriv@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <!-- Replace these with badges matching your actual tech stack -->
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="PySpark" />
+  <img src="https://shields.io" alt="SQL" />
+  <img src="https://shields.io" alt="Unix" />
+  <img src="https://shields.io" alt="Informatica" />
+  <img src="https://shields.io" alt="Snowflake" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" alt="Shirish's GitHub Stats" height="150" />
+  <img src="https://herokuapp.com" alt="Shirish's Streak Stats" height="150" />
+</p>
