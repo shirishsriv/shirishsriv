@@ -51,7 +51,7 @@ Welcome to my GitHub! I'm passionate about building clean, efficient, and user-c
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirish-srivastav&show_icons=true&theme=radical" alt="Shirish's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shirishsriv&show_icons=true&theme=radical" alt="Shirish's GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirish-srivastav&theme=radical" alt="Shirish's Streak Stats" height="180" />
 </p>
 
@@ -68,7 +68,7 @@ Welcome to my GitHub! I'm passionate about building clean, efficient, and user-c
 - Optimized for LLMs with < 1B parameters
 - Focus on efficient memory usage and inference speed
 - PyTorch-based implementation
-- [Repository](https://github.com/shirish-srivastav/tinyinfer)
+- [Repository](https://github.com/shirishsriv/tinyinfer)
 
 ---
 
@@ -95,9 +95,8 @@ Welcome to my GitHub! I'm passionate about building clean, efficient, and user-c
 ## 📫 Let's Connect
 
 - **Email**: [shirishsriv@gmail.com](mailto:shirishsriv@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter/X**: [Your Twitter Handle]
-- **Portfolio**: [Your Website]
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shirish-srivastava-91861515/)
+- **Twitter/X**: [Your Twitter Handle](https://x.com/Shreesh87)
 
 ---
 
