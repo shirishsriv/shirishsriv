@@ -1,128 +1,31 @@
 # Hi, I'm Shirish Srivastava 👋
 
-### 🚀 Software Engineer | ML/AI Enthusiast | Open Source Contributor
+Software engineer building practical machine-learning systems, LLM applications, and data products.
 
-Welcome to my GitHub! I'm passionate about building clean, efficient, and user-centric applications with a focus on scalable data solutions and machine learning systems.
+I care about making AI systems understandable, reproducible, and useful on real hardware—from retrieval applications to small-model inference.
 
----
+## What I'm building
 
-## 🎯 What I'm Up To
+- **[TinyInfer](https://github.com/shirishsriv/tinyinfer)** — a CPU-first Python/NumPy runtime for Llama-style small language models, with attention, RoPE, KV caching, safetensors loading, and configurable sampling.
+- **[Knowledge Assistant](https://github.com/shirishsriv/Knowledge-Assistant)** — a local document Q&A system using a Next.js UI, FastAPI, LangChain, ChromaDB, and cited retrieval.
+- **[Documentation Drift](https://github.com/shirishsriv/Documentation-Drift-in-Fast-Moving-Teams)** — an agent that compares product changes with documentation and suggests updates.
+- **[WebRTC VLM Detection](https://github.com/shirishsriv/WebRTC-VLM-Multi-Object-Detection)** — real-time video streaming and object detection from a phone to a browser.
 
-- 🔬 **tinyinfer** - Building an optimized inference engine for small LLMs (<1B parameters) with focus on performance and resource efficiency
-- 📚 Deepening expertise in **Generative AI** and **Data Science**
-- 🤝 Contributing to open-source projects
-- 🧠 Always learning new technologies and best practices
+## Focus areas
 
----
+`Python` · `NumPy` · `LLMs` · `RAG` · `FastAPI` · `TypeScript` · `SQL` · `PySpark` · `Docker` · `Data Engineering`
 
-## 🛠️ Tech Stack
+## Current learning
 
-**Languages & Frameworks**
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
+- Transformer architecture and efficient inference
+- Retrieval evaluation and grounded generation
+- Data and ML pipelines that are observable and reproducible
+- System design for reliable AI applications
 
-**Big Data & Data Engineering**
-<p>
-  <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E8E339?style=for-the-badge&logo=apache-spark&logoColor=black" />
-  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E35A16?style=for-the-badge&logo=apache-spark&logoColor=white" />
-</p>
+## Connect
 
-**ML/AI & Data Science**
-<p>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+- [LinkedIn](https://www.linkedin.com/in/shirish-srivastava-91861515/)
+- [Email](mailto:shirishsriv@gmail.com)
+- [X/Twitter](https://x.com/Shreesh87)
 
-**Tools & Platforms**
-<p>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Informatica" src="https://img.shields.io/badge/Informatica-13395E?style=for-the-badge&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirishsriv&show_icons=true&theme=radical" alt="Shirish's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirishsriv&theme=radical" alt="Shirish's Streak Stats" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirishsriv&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### tinyinfer
-**Inference Engine for Small Language Models**
-- Optimized for LLMs with < 1B parameters
-- Focus on efficient memory usage and inference speed
-- PyTorch-based implementation
-- [Repository](https://github.com/shirishsriv/tinyinfer)
-
----
-
-## 📖 Currently Learning
-
-- 🤖 **Generative AI** - LLM architectures, fine-tuning, prompt engineering
-- 📊 **Advanced Data Science** - Statistical modeling, A/B testing, ML pipelines
-- ⚙️ **System Design** - Building scalable distributed systems
-- 🔍 **LLM Optimization** - Quantization, pruning, knowledge distillation
-
----
-
-## 💬 Ask Me About
-
-- Machine Learning & Deep Learning
-- Data Engineering & Pipelines
-- Big Data Technologies (Spark, Snowflake)
-- LLM Inference Optimization
-- Software Architecture & Best Practices
-- Open Source Development
-
----
-
-## 📫 Let's Connect
-
-- **Email**: [shirishsriv@gmail.com](mailto:shirishsriv@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shirish-srivastava-91861515/)
-- **Twitter/X**: [Twitter Handle](https://x.com/Shreesh87)
-
----
-
-## 📝 Recent Activity
-
-<!-- Uncomment and update with your actual posts/articles -->
-<!-- 
-- 📰 [Blog Post on LLM Optimization](#) - December 2024
-- 🎥 [Talk: Scaling ML Pipelines](#) - November 2024
--->
-
----
-
-## ⚡ Fun Facts
-
-- ☕ Coffee-driven developer
-- 🎮 Occasional gamer
-- 📚 Tech enthusiast & lifelong learner
-- 🌍 Open source enthusiast
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shirish-srivastav&color=blueviolet" alt="Profile Views" />
-</p>
-
-<p align="center">
-  Made with ❤️ by Shirish Srivastav
-</p>
+Feel free to open an issue in one of my repositories or reach out about ML systems, LLM applications, and open-source collaboration.
